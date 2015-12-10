@@ -1,13 +1,13 @@
 # README
 
-# Sai World for Develope
+# Sai Develope World
 
 ## Archetypes
 
 프로젝트 시작시 사용할 수 있는 다양한 구성. 입맛대로 골라서. 샥샥
 
 | Repository | Build | Framework |
-| ----- | --------- |
+| ----- | --------- | ------- |
 | [quickstart-sai01](https://github.com/slothink/quickstart-sai01)| Gradle | Spring4, Hibernate, Servlet 3.0, Annotation Configuration |
 
 
