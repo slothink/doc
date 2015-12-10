@@ -6,10 +6,10 @@
 
 프로젝트 시작시 사용할 수 있는 다양한 구성. 입맛대로 골라서. 샥샥
 
-| Repository | Build | Framework |
-| ----- | --------- | ------- |
-| [quickstart-sai01](https://github.com/slothink/quickstart-sai01)| Gradle | Spring4, Hibernate, Servlet 3.0, Annotation Configuration |
-
+| Repository | Build     | Framework         |
+| ---------- | --------- | ----------------- |
+| [quickstart-sai01](https://github.com/slothink/quickstart-sai01)| Gradle | Spring4(Annotation), Hibernate(XML), Servlet 3.0(Annotation) |
+| [quickstart-sai02](https://github.com/slothink/quickstart-sai02)| Gradle | Spring4(XML), Spring Data JPA 1.8.2 Hibernate 4.3.10(JPA), Servlet 3.0(XML) |
 
 ## Etc
 
