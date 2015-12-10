@@ -9,8 +9,8 @@
 | Repository | Build     | Framework         |
 | ---------- | --------- | ----------------- |
 | [quickstart-sai01](https://github.com/slothink/quickstart-sai01)| Gradle | Spring4(Annotation), Hibernate(XML), Servlet 3.0(Annotation) |
-| [quickstart-sai02](https://github.com/slothink/quickstart-sai02)| Gradle | Spring4(XML), Spring Data JPA 1.8.2 Hibernate 4.3.10(JPA), Servlet 3.0(XML) |
-| [quickstart-sai03](https://github.com/slothink/quickstart-sai03)| Maven | Spring4(XML), Spring Data JPA 1.8.2 Hibernate 4.3.10(JPA), Servlet 3.0(XML) |
+| [quickstart-sai02](https://github.com/slothink/quickstart-sai02)| Gradle | Spring4(XML), Spring Data JPA 1.8.2 Hibernate 4.3.10(JPA), Servlet 3.0(XML), Tiles3 |
+| [quickstart-sai03](https://github.com/slothink/quickstart-sai03)| Maven | Spring4(XML), Spring Data JPA 1.8.2 Hibernate 4.3.10(JPA), Servlet 3.0(XML), Tiles3 |
 
 ## Etc
 
